@@ -1,6 +1,7 @@
 # animated weather icons for the unicorn-hat-hd
 handmade weather animations for unicorn-hat-hd made by pimoroni. each hd animation is made of 32 handmade mini pictures, combined to a sprite.
 
+please use a diffuser for best quality of the animations and for your own safety of course too.
 
 draw_animation(image) is same as in the 'show-png' example but put into a tiny little function.
 
